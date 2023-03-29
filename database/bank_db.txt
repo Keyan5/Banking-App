@@ -1,0 +1,5 @@
+CustId     AccountNo     Name            Balance        EncryptedPwd
+44         44044         Robin           62250.0        bcd234BCD,BC12bc
+33         33033         Rahul           30000.0        dbnqvt
+22         22022         Madhu           20000.0        Cboljoh
+11         11011         Kumar           12830.0        lo23LO,bte234BTE,BC23bc
