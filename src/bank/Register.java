@@ -17,6 +17,7 @@ public class Register {
     }
     public static String passwordChecker()
     {
+        //Password will not be visible
         System.out.print("Enter your password: ");
         Console console = System.console();
         char [] pass1 = console.readPassword();
