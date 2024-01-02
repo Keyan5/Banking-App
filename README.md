@@ -4,7 +4,8 @@ Welcome to the Console Banking App! Manage your finances securely and efficientl
 
 ## 🚀 Features
 
-- **Authentication**: Login with a password, and maintain a history to ensure security.
+- **User Registration**: Register yourself in the app for a personalized banking experience.
+- **Authentication**: Login with a securely encrypted password, ensuring data integrity.
 - **Transaction Database**: All transactions are securely stored in a text file database.
 - **Operations Menu**:
   - 💸 Deposit
@@ -16,9 +17,13 @@ Welcome to the Console Banking App! Manage your finances securely and efficientl
 
 ## 💻 Usage
 
-1. Clone the repository: `git clone https://github.com/yourusername/console-banking-app.git`
-2. Navigate to the project directory: `cd console-banking-app`
-3. Run the app: `java BankingApp`
+1. Clone the repository: `git clone https://github.com/Keyan5/Banking-App.git`
+2. Navigate to the project directory: `cd Banking-App/src`
+3. Run the app: `java Main`
+
+## 🔒 Password Encryption
+
+Your password is securely encrypted, ensuring the highest level of protection for your account.
 
 ## 🌟 How it Works
 
